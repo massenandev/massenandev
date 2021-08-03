@@ -1,4 +1,4 @@
-## Olá! Bem-vindo(a)!
+## Hey, ya! Welcome
 
 - 🔭 Backend is my passion
 - 🌱 Currently specializing and learning more about NodeJS and Typescript
