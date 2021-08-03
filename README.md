@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo(a)!
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Atualmente estou estudando e me especializando em NodeJS e Typescript
+- 🔭 Backend is my passion
+- 🌱 Currently specializing and learning more about NodeJS and Typescript
 
  <div>
   <a href="https://github.com/massenandev">
