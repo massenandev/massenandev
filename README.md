@@ -1,7 +1,5 @@
 
 <div align="left">
-  <a href="mailto:massenandev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/massenandev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://app.daily.dev/massenan" target="_blank">
     <img
       src="https://api.daily.dev/devcards/951d656905f4433b9a5d852da852c0a3.png?r=g5q"
