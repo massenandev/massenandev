@@ -2,7 +2,7 @@
 <div align="left">
   <a href="https://app.daily.dev/massenan" target="_blank">
     <img
-      src="https://api.daily.dev/devcards/951d656905f4433b9a5d852da852c0a3.png?r=g5q"
+      src="https://github.com/massenandev/massenandev/blob/main/devcard.svg"
       width="256"
       align="right"
       alt="Leticia Massenan's Dev Card"
